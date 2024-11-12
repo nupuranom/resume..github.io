@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: CSE Student at Jahangirnagar University
+role: Student 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
