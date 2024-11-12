@@ -11,7 +11,7 @@ last_name: Anom
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😊
 
 # Is this the primary user of the site?
 superuser: true
@@ -30,12 +30,12 @@ organizations:
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:ummeanom@gmail.com'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/your-github-username
+    url: https://github.com/nupuranom
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/your-linkedin-username/
+    url: https://www.linkedin.com/in/umme-anom-462539309/
 
 interests:
   - Machine Learning
@@ -124,4 +124,4 @@ languages:
 ---
 # About Me
 
-Umme Anom is a computer science student at Jahangirnagar University with a keen interest in Machine Learning, Artificial Intelligence, and Data Science. Passionate about innovative technologies and problem-solving, Umme enjoys working on projects that explore new methods in AI and data analytics. In her free time, she loves cooking and crafting.
+Umme Anom is pursuing a degree in Computer Science and Engineering at Jahangirnagar University with a keen interest in Machine Learning, Artificial Intelligence, and Data Science. Passionate about innovative technologies and problem-solving, Anom enjoys working on projects that explore new methods in AI and data analytics. In her free time, she loves cooking and crafting.
