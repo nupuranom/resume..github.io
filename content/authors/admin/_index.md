@@ -9,9 +9,7 @@ name_pronunciation: Umme Anom
 first_name: Umme
 last_name: Anom
 
-# Status emoji
-status:
-  icon: 😊
+
 
 # Is this the primary user of the site?
 superuser: true
