@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Umme Anom
+title: Umme Anom Nupur
 
 # Name pronunciation (optional)
 name_pronunciation: Umme Anom
